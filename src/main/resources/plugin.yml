@@ -1,0 +1,12 @@
+name: YZCommand
+version: 1.0.0
+main: luewxp.serv00.net.yZ.YZCommand
+api-version: '1.18'
+authors: [lugewxp]
+description: 把便签Minecraft连接起来，真是不可思议！
+website: lugewxp.serv00.net
+commands:
+  yz:
+    description: 快捷指令功能
+    usage: /yz <read|open|list|remove>
+    aliases: [yzh, yzc]
